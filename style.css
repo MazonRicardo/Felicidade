@@ -5,3 +5,7 @@ body{
     color: beige;
     
 }
+
+img {
+    border-radius: 2%;
+}
