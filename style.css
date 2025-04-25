@@ -1,6 +1,7 @@
 body{
     text-align: center;
     font-size: 25px;
-    background-color: black;
+    background-color: rgb(57, 55, 55);
     color: beige;
+    list-style-image: -o-linear-gradient();
 }
